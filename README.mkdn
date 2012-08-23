@@ -1,4 +1,4 @@
 tora.vim
 ========
 
-Utility
+vim syntax for tora lanugage.

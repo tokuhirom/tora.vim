@@ -6,7 +6,7 @@ if exists("b:current_syntax")
   finish
 endif
 
-syn keyword trKeywords class for undefined true false sub if next last this return else initialize undef while elsif static alias
+syn keyword trKeywords class for undefined true false sub if next last this return else initialize undef while elsif static alias export
 syn keyword trBuiltinFunctions say p open int
 syn keyword trBuiltinMethods bless new
 syn keyword trStorage my
